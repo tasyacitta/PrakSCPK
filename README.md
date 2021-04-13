@@ -1,0 +1,2 @@
+# PrakSCPK
+Praktikum SCPK D
